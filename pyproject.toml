@@ -41,7 +41,7 @@ voice = [
     "davey>=0.1.0"
 ]
 docs = [
-    "sphinx==4.4.0",
+    "sphinx==4.5.0",
     "sphinxcontrib_trio==1.1.2",
     # TODO: bump these when migrating to a newer Sphinx version
     "sphinxcontrib-websupport==1.2.4",
